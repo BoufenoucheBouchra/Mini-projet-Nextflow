@@ -8,5 +8,5 @@
  ## Contenu du dépôt
 - **[Le rapport](Mini-projet-Nextflow/Nextflow_project.pdf)** : le rapport détaillé du mini-projet  
 - **[pipeline_rnavar.sh](Scripts/pipeline_rnavar.sh)** : le script pour lancer le pipeline  
-- **[input.csv](Mini-projet-Nextflow/Scripts/input.csv)** : le fichier d’entrée utilisé par le pipeline  
+- **[input.csv](Scripts/input.csv)** : le fichier d’entrée utilisé par le pipeline  
 - **results/** : le dossier contenant le **rapport HTML résumant les résultats**
