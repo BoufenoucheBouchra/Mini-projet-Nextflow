@@ -6,7 +6,7 @@
  des reads, l’alignement sur le génome de référence, la détection et l’annotation des
  variants, et interpréter les résultats obtenus.
  ## Contenu du dépôt
-- **[Le rapport](Mini-projet-Nextflow/Nextflow_project.pdf)** : le rapport détaillé du mini-projet  
+- **[Le rapport](rapport./Nextflow_project.pdf)** : le rapport détaillé du mini-projet  
 - **[pipeline_rnavar.sh](Scripts/pipeline_rnavar.sh)** : le script pour lancer le pipeline  
 - **[input.csv](Scripts/input.csv)** : le fichier d’entrée utilisé par le pipeline  
-- **results/** : le dossier contenant le **rapport HTML résumant les résultats**
+- **results/** : le dossier contenant le rapport HTML résumant les résultats
