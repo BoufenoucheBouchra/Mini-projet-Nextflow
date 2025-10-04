@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2,strandedness
+SRR2045415,/work/user/fmt116/TP_nextflow/projet_nextflow/sra_tools/fastq/SRR2045415_1.fastq.gz,/work/user/fmt116/TP_nextflow/projet_nextflow/sra_tools/fastq/SRR2045415_2.fastq.gz,unstranded
+SRR2045416,/work/user/fmt116/TP_nextflow/projet_nextflow/sra_tools/fastq/SRR2045416_1.fastq.gz,/work/user/fmt116/TP_nextflow/projet_nextflow/sra_tools/fastq/SRR2045416_2.fastq.gz,unstranded
